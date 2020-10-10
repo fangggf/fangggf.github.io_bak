@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Resume
+title: Gongfan Fang
 ---
 
 Master Student at Zhejiang University advised by professor MingLi Song. 
