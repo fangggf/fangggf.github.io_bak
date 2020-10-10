@@ -3,7 +3,7 @@ layout: post
 title: Gongfan Fang
 ---
 
-Gongfan Fanng is currently a Master student in VIPA Group, Zhejiang University. He received his bachelor’s degrees of Computer Science in Zhejiang University in 2019. 
+Gongfan Fanng is currently a Master student in Zhejiang University advised by professor MingLi Song. He received his bachelor’s degrees of Computer Science in Zhejiang University in 2019. 
 
 <h2> Research </h2>
 
