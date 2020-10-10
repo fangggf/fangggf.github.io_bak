@@ -1,25 +1,67 @@
 ---
 layout: post
-title: About
+title: Resume
 ---
-<p>
-This theme is available for free under the MIT open source software license.
-<br>
-The theme can be found <a href="https://github.com/benradford/Slate-and-Simple-Jekyll-Theme">here</a>.
-<br>
-The theme requires <a href="https://jekyllrb.com">Jekyll</a>, a static-site generator compatible with <a href="https://pages.github.com">pages.github.com</a>.
-</p>
 
-<hr>
+Master Student at Zhejiang University advised by professor MingLi Song. 
 
-<p>
-Maecenas tempus ullamcorper ante, sed eleifend purus mollis a. Sed ut molestie eros. Etiam arcu mi, consequat id ligula nec, faucibus dictum tortor. Ut tempus felis non commodo luctus. Nunc ac ullamcorper leo. Suspendisse et lorem eu leo iaculis vehicula nec vel mauris. Nullam eget porta ante.
-</p>
+<h2> Research </h2>
 
-<p>
-Nunc tellus justo, pharetra sit amet blandit nec, mattis eu turpis. Praesent efficitur posuere nunc, non dapibus lectus placerat eget. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Aenean a tincidunt velit. Nam ac ultricies metus. Morbi non erat ac nunc rutrum congue. Aliquam ultrices viverra felis quis pharetra. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae;
-</p>
+<div>
+<img src="../images/dfad.png" alt="dfad" width="140" align="right">
+<div>
+<b>Data-Free Adversarial Distillation</b> <br>
+<b>Gongfan Fang</b>, Jie Song, Chengchao Shen, Xinchao Wang, Da Chen, Mingli Song <br>
+<I>arXiv preprint arXiv:1912.11006</I>
+</div>
+</div> <br> 
 
-<p>
-Phasellus pellentesque odio eget massa finibus, in aliquam lectus tincidunt. Suspendisse potenti. Fusce nisi ipsum, facilisis sed nunc non, congue gravida augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent ut elementum nulla. Ut iaculis elit ac lectus elementum, mollis porta ex ultricies. Maecenas pretium lectus quis vulputate feugiat. Curabitur vitae ex in eros eleifend volutpat vitae sed dui.
-</p>
+<div>
+<img src="../images/impression_space.png" alt="impression_space" width="140" align="right">
+<div>
+<b>Impression Space from Deep Template Network</b> <br>
+<b>Gongfan Fang</b>, Xinchao Wang, Haofei Zhang, Jie Song, Mingli Song <br>
+<I>arXiv preprint arXiv:2007.05441</I>
+</div> </div> <br>
+
+<div>
+<img src="../images/cfl.png" alt="cfl" width="90" align="right">
+<div>
+<b>Knowledge amalgamation from heterogeneous networks by common feature learning</b> <br>
+Sihui Luo, Xinchao Wang, <b>Gongfan Fang</b>, Yao Hu, Dapeng Tao, Mingli Song <br>
+<I>International Joint Conferences on Artificial Intelligence Organization (IJCAI), 2019</I>
+</div> </div> <br> 
+
+<div>
+<img src="../images/dfkd_nlp.png" alt="dfkd_nlp" width="135" align="right">
+<b>Adversarial Self-Supervised Data-Free Distillation for Text Classification</b> <br>
+Xinyin Ma, Yongliang Shen, <b>Gongfan Fang</b>, Chen Chen, Chenghao Jia, Weiming Lu <br>
+<I>Empirical Methods in Natural Language Processing (EMNLP), 2020</I>
+</div> </div> <br> 
+
+
+<h2> Project </h2>
+
+<div>
+<img src="../images/msssim.png" alt="msssim" width="100" align="right">
+<div>
+<b>Pytorch-MSSSIM</b> <br>
+Fast and differentiable MS-SSIM and SSIM for pytorch <br>
+<I>https://github.com/VainF/pytorch-msssim</I>
+</div> </div> <br> <br>
+
+<div>
+<img src="../images/torch_pruning.png" alt="torch_pruning" width="100" align="right">
+<div>
+<b>Torch-Pruning</b> <br>
+A pytorch toolkit for structured neural network pruning and layer dependency maintaining <br>
+<I>https://github.com/VainF/Torch-Pruning</I>
+</div> </div> <br> <br>
+
+<div>
+<img src="../images/deeplab.png" alt="deeplab" width="100" align="right">
+<div>
+<b>DeepLabV3Plus-Pytorch</b> <br>
+DeepLabv3, DeepLabv3+ and pretrained weights on VOC & Cityscapes. <br>
+<I>https://github.com/VainF/DeepLabV3Plus-Pytorch</I>
+</div> </div> <br> <br>
