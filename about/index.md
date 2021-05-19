@@ -3,9 +3,19 @@ layout: post
 title: Gongfan Fang
 ---
 
-Gongfan Fanng is currently a Master student in Zhejiang University advised by professor MingLi Song. He received his bachelor’s degrees of Computer Science in Zhejiang University in 2019. 
+I'm currently a second-year Master student in Zhejiang University advised by professor MingLi Song. I received my bachelor’s degrees of Computer Science in Zhejiang University in 2019. 
 
 <h2> Research </h2>
+
+
+<div>
+<img src="../images/cmi.png" alt="cmi" width="120" align="right">
+<div>
+<b>Contrastive Model Inversion for Data-Free Knowledge Distillation</b> <br>
+<b>Gongfan Fang</b>, Jie Song, Xinchao Wang, Chengchao Shen, Xingen Wang, Mingli Song <br>
+<I>International Joint Conferences on Artificial Intelligence Organization (IJCAI), 2021</I>
+</div>
+</div> <br> 
 
 <div>
 <img src="../images/dfad.png" alt="dfad" width="140" align="right">
