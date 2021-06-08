@@ -3,10 +3,9 @@ layout: post
 title: Gongfan Fang
 ---
 
-I'm currently a second-year Master student in Zhejiang University advised by professor MingLi Song. I received my bachelor’s degrees of Computer Science in Zhejiang University in 2019. 
+I'm currently a second-year Master student in Zhejiang University advised by professor <a href="https://person.zju.edu.cn/en/msong">MingLi Song</a>. I received my Bachelor’s degree of Computer Science in Zhejiang University in 2019. 
 
 <h2> Research </h2>
-
 
 <div>
 <img src="../images/cmi.png" alt="cmi" width="120" align="right">
