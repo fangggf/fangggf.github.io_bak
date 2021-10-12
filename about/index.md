@@ -3,9 +3,18 @@ layout: post
 title: Gongfan Fang
 ---
 
-I'm currently a second-year Master student in Zhejiang University advised by professor <a href="https://person.zju.edu.cn/en/msong">MingLi Song</a>. I received my Bachelor’s degree of Computer Science in Zhejiang University in 2019. 
+Hi there! I'm Gongfan Fang, a second-year master student at Zhejiang University advised by professor <a href="https://person.zju.edu.cn/en/msong">MingLi Song</a>. I received my Bachelor’s degree of Computer Science in Zhejiang University in 2019. My research interests include model compression and computer vision. Now, I'm also working closely with <a href="https://vipazoo.cn/people/songjie">Jie Song (Zhejiang University)</a> and <a href="https://sites.google.com/site/sitexinchaowang/">Xinchao Wang (National University of Singapore)</a>. 
 
 <h2> Research </h2>
+
+<div>
+<img src="../images/MosaicKD.jpg" alt="cmi" width="140" align="right">
+<div>
+<b>Mosaicking to Distill: Knowledge Distillation from Out-of-Domain Data</b> <br>
+<b>Gongfan Fang</b>, Yifan Bao, Jie Song, Xinchao Wang, Donglin Xie, Chengchao Shen, Mingli Song <br>
+<I>Thirty-fifth Conference on Neural Information Processing Systems (NeurIPS), 2021</I>
+</div>
+</div> <br> 
 
 <div>
 <img src="../images/cmi.png" alt="cmi" width="120" align="right">
@@ -16,6 +25,7 @@ I'm currently a second-year Master student in Zhejiang University advised by pro
 </div>
 </div> <br> 
 
+
 <div>
 <img src="../images/dfad.png" alt="dfad" width="140" align="right">
 <div>
@@ -24,14 +34,6 @@ I'm currently a second-year Master student in Zhejiang University advised by pro
 <I>arXiv preprint arXiv:1912.11006</I>
 </div>
 </div> <br> 
-
-<div>
-<img src="../images/impression_space.png" alt="impression_space" width="140" align="right">
-<div>
-<b>Impression Space from Deep Template Network</b> <br>
-<b>Gongfan Fang</b>, Xinchao Wang, Haofei Zhang, Jie Song, Mingli Song <br>
-<I>arXiv preprint arXiv:2007.05441</I>
-</div> </div> <br>
 
 <div>
 <img src="../images/cfl.png" alt="cfl" width="90" align="right">
