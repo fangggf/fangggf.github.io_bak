@@ -9,7 +9,7 @@ Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University a
 <div>
 <br> <img src="../images/fast_dfkd.png" alt="fast_dfkd" width="250" align="right">
 <div>
-<b>Up to 100$\times$ Faster Data-free Knowledge Distillation</b> <br>
+<b>Up to 100x Faster Data-free Knowledge Distillation</b> <br>
 <b>Gongfan Fang</b>, Kanya Mo, Xinchao Wang, Jie Song, Shitao Bei, Haofei Zhang, Mingli Song <br>
 <I>Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22)</I><br>
 </div>
