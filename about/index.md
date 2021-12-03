@@ -5,8 +5,7 @@ title: Gongfan Fang
 
 <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
 
-
-Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University advised by professor <a href="https://person.zju.edu.cn/en/msong">MingLi Song</a>. I received my Bachelor’s degree of Computer Science in Zhejiang University in 2019. My research interests include model compression, computer vision and efficient training. Now, I'm also working closely with <a href="https://vipazoo.cn/people/songjie">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Dr. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Dr. Chengchao Shen (Central South University)</a>. 
+Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University advised by professor <a href="https://person.zju.edu.cn/en/msong">MingLi Song</a>. I received my Bachelor’s degree of Computer Science at Zhejiang University in 2019. My research interests include model compression, computer vision and efficient training. Now, I'm also working closely with <a href="https://vipazoo.cn/people/songjie">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Dr. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Dr. Chengchao Shen (Central South University)</a>. 
 
 <h2> Research </h2>
 
