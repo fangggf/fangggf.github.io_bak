@@ -93,7 +93,7 @@ Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University a
 
 <div class="publication">
     <dl class="description">
-        <div class="figure"><img src="../images/cmi.png"></img></div>
+        <div class="figure"><img src="../images/dfad.png"></img></div>
         <dt class="ptitle">Data-Free Adversarial Distillation</dt>
         <dd><b>Gongfan Fang</b>, Jie Song, Chengchao Shen, Xinchao Wang, Da Chen, Mingli Song</dd>
         <dd>arXiv preprint arXiv:1912.11006</dd>
