@@ -5,7 +5,7 @@ title: Gongfan Fang
 
 <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
 
-Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University advised by professor <a href="https://person.zju.edu.cn/en/msong">MingLi Song</a>. I received my Bachelor’s degree of Computer Science at Zhejiang University in 2019. My research interests include model compression, computer vision and efficient training. Now, I'm also working closely with <a href="https://vipazoo.cn/people/songjie">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Dr. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Dr. Chengchao Shen (Central South University)</a>. 
+Hi there! I'm Gongfan Fang, a final-year M.Sc student at Zhejiang University supervised by <a href="https://person.zju.edu.cn/en/msong">Professor MingLi Song</a>. I received my Bachelor’s degree of Computer Science at Zhejiang University in 2019. My research interests include model compression, computer vision and efficient training. Now, I'm also working closely with <a href="https://vipazoo.cn/people/songjie">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Dr. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Dr. Chengchao Shen (Central South University)</a>. 
 
 <h2> Research </h2>
 
@@ -186,7 +186,7 @@ Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University a
 
 
 <div>
-<img src="https://github-readme-stats.vercel.app/api?username=VainF&theme=dark&bg_color=fff&title_color=808080&"></img>
+<img src="https://github-readme-stats.vercel.app/api?username=VainF&theme=dark&bg_color=fff&title_color=444444&text_color=444444"></img>
 </div>
 
 
@@ -221,5 +221,5 @@ Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University a
 
 <h2> Education </h2>
 
-<b>2019.06 - present</b> - Master Student, Zhejiang Univeristy. <br>
+<b>2019.06 - present</b> - M.Sc Student, Zhejiang Univeristy. <br>
 <b>2015.09 - 2019.06</b> - Undergraduate Student, Zhejiang Univeristy.
