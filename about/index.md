@@ -17,10 +17,17 @@ Hi there! I'm Gongfan Fang, a final-year M.Sc student at Zhejiang University sup
         <dd>Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22)</dd>
         <dd>
             [<a href="" target="_blank">paper</a>]
-            [<a href="" target="_blank">arXiv</a>]
+            [<a href="https://arxiv.org/abs/2112.06253" target="_blank">arXiv</a>]
             [<a href="" target="_blank">code</a>]
             <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.bibref').slideToggle()">bibtex</a>]
-                <div class="bibref pre-white-space"  style="overflow: hidden; display: none;"></div>
+                <div class="bibref pre-white-space"  style="overflow: hidden; display: none;">
+@article{fang2021up,
+    title={Up to 100x Faster Data-free Knowledge Distillation},
+    author={Fang, Gongfan and Mo, Kanya and Wang, Xinchao and Song, Jie and Bei, Shitao and Zhang, Haofei and Song, Mingli},
+    journal={arXiv preprint arXiv:2112.06253},
+    year={2021}
+}
+</div>
             </div>  
             <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
                 <div class="abstract"  style="overflow: hidden; display: none;">  
@@ -195,7 +202,7 @@ Hi there! I'm Gongfan Fang, a final-year M.Sc student at Zhejiang University sup
         <div class="figure"><img src="../images/msssim.png"></img></div>
         <dt class="ptitle">Pytorch-MSSSIM</dt>
         <dd>Fast and differentiable MS-SSIM and SSIM for pytorch</dd>
-        <dd>https://github.com/VainF/pytorch-msssim</dd>
+        <dd><a href="https://github.com/VainF/pytorch-msssim" target="_blank">https://github.com/VainF/pytorch-msssim</a></dd>
     </dl>
 </div>
 
@@ -204,7 +211,7 @@ Hi there! I'm Gongfan Fang, a final-year M.Sc student at Zhejiang University sup
         <div class="figure"><img src="../images/torch_pruning.png"></img></div>
         <dt class="ptitle">Torch-Pruning</dt>
         <dd>A pytorch toolkit for structured neural network pruning and layer dependency maintaining</dd>
-        <dd>https://github.com/VainF/Torch-Pruning</dd>
+        <dd><a href="https://github.com/VainF/Torch-Pruning" target="_blank">https://github.com/VainF/Torch-Pruning</a></dd>
     </dl>
 </div>
 
@@ -213,7 +220,8 @@ Hi there! I'm Gongfan Fang, a final-year M.Sc student at Zhejiang University sup
         <div class="figure"><img src="../images/deeplab.png"></img></div>
         <dt class="ptitle">DeepLabV3Plus-Pytorch</dt>
         <dd>DeepLabv3, DeepLabv3+ and pretrained weights on VOC & Cityscapes.</dd>
-        <dd>https://github.com/VainF/DeepLabV3Plus-Pytorch</dd>
+        <dd><a href="https://github.com/VainF/DeepLabV3Plus-Pytorch" target="_blank">https://github.com/VainF/DeepLabV3Plus-Pytorch</a></dd>
+
     </dl>
 </div>
 
