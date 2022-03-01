@@ -21,11 +21,13 @@ Hi there! I'm Gongfan Fang, a final-year M.Sc student at Zhejiang University sup
             [<a href="https://github.com/zju-vipa/Fast-Datafree" target="_blank">code</a>]
             <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.bibref').slideToggle()">bibtex</a>]
                 <div class="bibref pre-white-space"  style="overflow: hidden; display: none;">
-@article{fang2021up,
-    title={Up to 100x Faster Data-free Knowledge Distillation},
-    author={Fang, Gongfan and Mo, Kanya and Wang, Xinchao and Song, Jie and Bei, Shitao and Zhang, Haofei and Song, Mingli},
-    journal={arXiv preprint arXiv:2112.06253},
-    year={2021}
+@misc{fang2022100times,
+      title={Up to 100$\times$ Faster Data-free Knowledge Distillation}, 
+      author={Gongfan Fang and Kanya Mo and Xinchao Wang and Jie Song and Shitao Bei and Haofei Zhang and Mingli Song},
+      year={2022},
+      eprint={2112.06253},
+      archivePrefix={arXiv},
+      primaryClass={cs.LG}
 }
 </div>
             </div>  
