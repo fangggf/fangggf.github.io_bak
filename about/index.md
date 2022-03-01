@@ -16,9 +16,9 @@ Hi there! I'm Gongfan Fang, a final-year M.Sc student at Zhejiang University sup
         <dd><b>Gongfan Fang*</b>, Kanya Mo*, Xinchao Wang, Jie Song, Shitao Bei, Haofei Zhang, Mingli Song <br></dd>
         <dd>Thirty-Sixth AAAI Conference on Artificial Intelligence (AAAI-22)</dd>
         <dd>
-            [<a href="" target="_blank">paper</a>]
+            [<a href="https://www.aaai.org/AAAI22Papers/AAAI-66.FangG.pdf" target="_blank">paper</a>]
             [<a href="https://arxiv.org/abs/2112.06253" target="_blank">arXiv</a>]
-            [<a href="" target="_blank">code</a>]
+            [<a href="https://github.com/zju-vipa/Fast-Datafree" target="_blank">code</a>]
             <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.bibref').slideToggle()">bibtex</a>]
                 <div class="bibref pre-white-space"  style="overflow: hidden; display: none;">
 @article{fang2021up,
