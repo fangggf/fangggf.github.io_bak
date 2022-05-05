@@ -214,7 +214,7 @@ Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University a
 
 <div class="publication">
     <dl class="description">
-        <div class="figure"><img src="../images/dfkd_nlp.png"></img></div>
+        <div class="figure"><img src="../images/transformer-amal.png"></img></div>
         <dt class="ptitle">Knowledge Amalgamation for Object Detection with Transformers</dt>
         <dd>Haofei Zhang, Feng Mao, Mengqi Xue, <b>Gongfan Fang<b>, Zunlei Feng, Jie Song, Mingli Song/dd>
         <dd>arXiv preprint arXiv:2203.03187</dd>
