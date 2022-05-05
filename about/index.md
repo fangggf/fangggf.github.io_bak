@@ -234,4 +234,6 @@ Hi there! I'm Gongfan Fang, a final-year M.Sc student at Zhejiang University adv
 <b>2019.06 - present</b> - M.Sc Student, Zhejiang Univeristy. <br>
 <b>2015.09 - 2019.06</b> - Undergraduate Student, Zhejiang Univeristy.
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=d1d1d1&w=300&t=tt&d=e9S_awRAjYhT5yiVagGNu9ZBArPRwFNiqCcI9jPj4sc&co=255272&cmo=5b80aa&cmn=a34747&ct=ffffff"></script>
+<br>
+
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=c4c4c4&w=300&t=tt&d=e9S_awRAjYhT5yiVagGNu9ZBArPRwFNiqCcI9jPj4sc&co=ffffff&cmo=5b80aa&cmn=a34747&ct=ffffff"></script>
