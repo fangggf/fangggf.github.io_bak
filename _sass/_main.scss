@@ -396,3 +396,9 @@ dd {
 .me{
     color:#808080;
 }
+
+.cf > div
+{
+display:table-cell;
+vertical-align:top;
+}
