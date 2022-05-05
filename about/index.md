@@ -211,6 +211,39 @@ Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University a
     </dl>
 </div>
 
+
+<div class="publication">
+    <dl class="description">
+        <div class="figure"><img src="../images/dfkd_nlp.png"></img></div>
+        <dt class="ptitle">Knowledge Amalgamation for Object Detection with Transformers</dt>
+        <dd>Haofei Zhang, Feng Mao, Mengqi Xue, <b>Gongfan Fang<b>, Zunlei Feng, Jie Song, Mingli Song/dd>
+        <dd>arXiv preprint arXiv:2203.03187</dd>
+        <dd>
+            [<a href="" target="_blank">paper</a>]
+            [<a href="https://arxiv.org/abs/2203.03187" target="_blank">arXiv</a>]
+            <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.bibref').slideToggle()">bibtex</a>]
+                <div class="bibref pre-white-space"  style="overflow: hidden; display: none;">
+@misc{https://doi.org/10.48550/arxiv.2203.03187,
+    doi = {10.48550/ARXIV.2203.03187},
+    url = {https://arxiv.org/abs/2203.03187},
+    author = {Zhang, Haofei and Mao, Feng and Xue, Mengqi and Fang, Gongfan and Feng, Zunlei and Song, Jie and Song, Mingli},
+    keywords = {Computer Vision and Pattern Recognition (cs.CV), Artificial Intelligence (cs.AI), FOS: Computer and information sciences, FOS: Computer and information sciences},
+    title = {Knowledge Amalgamation for Object Detection with Transformers},
+    publisher = {arXiv},
+    year = {2022},
+    copyright = {arXiv.org perpetual, non-exclusive license}
+}
+            </div>
+            </div>  
+            <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
+                <div class="abstract"  style="overflow: hidden; display: none;">  
+                    <p>Knowledge amalgamation (KA) is a novel deep model reusing task aiming to transfer knowledge from several well-trained teachers to a multi-talented and compact student. Currently, most of these approaches are tailored for convolutional neural networks (CNNs). However, there is a tendency that transformers, with a completely different architecture, are starting to challenge the domination of CNNs in many computer vision tasks. Nevertheless, directly applying the previous KA methods to transformers leads to severe performance degradation. In this work, we explore a more effective KA scheme for transformer-based object detection models. Specifically, considering the architecture characteristics of transformers, we propose to dissolve the KA into two aspects: sequence-level amalgamation (SA) and task-level amalgamation (TA). In particular, a hint is generated within the sequence-level amalgamation by concatenating teacher sequences instead of redundantly aggregating them to a fixed-size one as previous KA works. Besides, the student learns heterogeneous detection tasks through soft targets with efficiency in the task-level amalgamation. Extensive experiments on PASCAL VOC and COCO have unfolded that the sequence-level amalgamation significantly boosts the performance of students, while the previous methods impair the students. Moreover, the transformer-based students excel in learning amalgamated knowledge, as they have mastered heterogeneous detection tasks rapidly and achieved superior or at least comparable performance to those of the teachers in their specializations. </p>
+                </div>
+            </div>       
+        </dd>
+    </dl>
+</div>
+
 <br> 
 
 
