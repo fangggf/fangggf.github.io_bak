@@ -7,14 +7,10 @@ title: Gongfan Fang
 
 <script type="text/javascript" src="../assets/js/jquery.min.js width=150px"></script>
 
-<tr>
-        <td width=20%>
-            <p style="text-align:center"><img src="../images/fanggongfan.png" width=150px></p>
-        </td>
-        <td width=50%>
-Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. Prior to this, I received my Bachelor’s degree in Computer Science from Zhejiang University in 2019. My research interests include computer vision and efficient deep learning. Now, I'm working closely with <a href="https://scholar.google.com/citations?user=4OjO-WYAAAAJ&hl=en">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Prof. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Prof. Chengchao Shen (Central South University)</a>. 
-        </td>
-</tr>
+<div class="cf">
+   <div><img src="../images/fanggongfan.png" width="150px" /> </div>
+   <div>Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. Prior to this, I received my Bachelor’s degree in Computer Science from Zhejiang University in 2019. My research interests include computer vision and efficient deep learning. Now, I'm working closely with <a href="https://scholar.google.com/citations?user=4OjO-WYAAAAJ&hl=en">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Prof. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Prof. Chengchao Shen (Central South University)</a></div>
+</div>
 
 <h2> Publications </h2>
 
