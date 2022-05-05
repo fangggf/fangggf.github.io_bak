@@ -5,7 +5,7 @@ title: Gongfan Fang
 
 <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
 
-Hi there! I'm Gongfan Fang, a final-year M.Sc student at Zhejiang University advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. Prior to this, I received my Bachelor’s degree in Computer Science from Zhejiang University in 2019. My research interests include model compression, computer vision and efficient learning. Now, I'm also working closely with <a href="https://scholar.google.com/citations?user=4OjO-WYAAAAJ&hl=en">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Prof. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Prof. Chengchao Shen (Central South University)</a>. 
+Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. Prior to this, I received my Bachelor’s degree in Computer Science from Zhejiang University in 2019. My research interests include computer vision and efficient deep learning. Now, I'm working closely with <a href="https://scholar.google.com/citations?user=4OjO-WYAAAAJ&hl=en">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Prof. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Prof. Chengchao Shen (Central South University)</a>. 
 
 <h2> Publications </h2>
 
@@ -161,6 +161,29 @@ Hi there! I'm Gongfan Fang, a final-year M.Sc student at Zhejiang University adv
 
 <div class="publication">
     <dl class="description">
+        <div class="figure"><img src="../images/ijcai22-prompt.png"></img></div>
+        <dt class="ptitle">Prompting to distill: Boosting Data-Free Knowledge Distillation via Reinforced Prompt</dt>
+        <dd>Xinyin Ma, Xinchao Wang, <b>Gongfan Fang</b>, Yongliang Shen, Weiming Lu</dd>
+        <dd>The 31st International Joint Conference on Artificial Intelligence (IJCAI-22) </dd>
+        <dd>
+            [<a href="" target="_blank">paper</a>]
+            [<a href="" target="_blank">arXiv</a>]
+            [<a href="" target="_blank">code</a>]
+            <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.bibref').slideToggle()">bibtex</a>]
+                <div class="bibref pre-white-space"  style="overflow: hidden; display: none;">
+            </div>
+            </div>  
+            <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
+                <div class="abstract"  style="overflow: hidden; display: none;">  
+                    <p>Data-free knowledge distillation (DFKD) conducts knowledge distillation via eliminating the dependence of original training data, and has recently achieved impressive results in accelerating pre-trained language models. At the heart of DFKD is toreconstruct a synthetic dataset by invertingthe parameters of the uncompressed model. Prior DFKD approaches, however, havelargely relied on hand-crafted priors of the target data distribution for the reconstruction, which can be inevitably biased and often incompetent to capture the intrinsic distributions. To address this problem, we propose a prompt-based method, termed as PromptDFD, that allows us to take advantage of learned language priors, which effectively harmonizes the synthetic sentences to be semantically and grammatically correct. Specifically, PromptDFD leverages a pre-trained generative model to provide language priors and introduces a reinforced topic prompter to control data synthesis, making the generated samples thematically relevant and semantically plausible, and thus friendly to downstream tasks. As shown in our experiments, the proposed method substantially improves the synthesis quality and achieves considerable improvements on distillation performance. In some cases, PromptDFD even gives rise to results on par with those from the data-driven knowledge distillation with access to the original training data. </p>
+                </div>
+            </div>       
+        </dd>
+    </dl>
+</div>
+
+<div class="publication">
+    <dl class="description">
         <div class="figure"><img src="../images/dfkd_nlp.png"></img></div>
         <dt class="ptitle">Adversarial Self-Supervised Data-Free Distillation for Text Classification</dt>
         <dd>Xinyin Ma, Yongliang Shen, <b>Gongfan Fang</b>, Chen Chen, Chenghao Jia, Weiming Lu/dd>
@@ -231,7 +254,7 @@ Hi there! I'm Gongfan Fang, a final-year M.Sc student at Zhejiang University adv
 
 <h2> Education </h2>
 
-<b>2019.06 - present</b> - M.Sc Student, Zhejiang Univeristy. <br>
+<b>2019.09 - 2022.04</b> - Master Student, Zhejiang Univeristy. <br>
 <b>2015.09 - 2019.06</b> - Undergraduate Student, Zhejiang Univeristy.
 
 <br>
