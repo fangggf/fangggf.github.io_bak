@@ -5,7 +5,7 @@ title: Gongfan Fang
 
 <script type="text/javascript" src="../assets/js/jquery.min.js width=150px"></script>
 
-<p>Hi there! I'm Gongfan Fang. I graduated from Zhejiang University in 2022 with a Master's degree, advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. Prior to this, I received my Bachelor’s degree in Computer Science from Zhejiang University in 2019. My research interests mainly lies in computer vision and machine learning. Now, I'm working closely with <a href="https://scholar.google.com/citations?user=4OjO-WYAAAAJ&hl=en">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Prof. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Prof. Chengchao Shen (Central South University)</a>. In this year, I will be pursuing a PhD degree at the National University of Singapore</p>
+<p>Hi there! I'm Gongfan Fang. I graduated from Zhejiang University in 2022 with a Master's degree, advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. Prior to this, I received my Bachelor’s degree in Computer Science from Zhejiang University in 2019. My research interests mainly lies in computer vision and machine learning. Now, I'm working closely with <a href="https://scholar.google.com/citations?user=4OjO-WYAAAAJ&hl=en">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Prof. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Prof. Chengchao Shen (Central South University)</a>. In this year, I will be pursuing my PhD at National University of Singapore</p>
 
 <h2> Publications </h2>
 
