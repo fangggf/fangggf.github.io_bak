@@ -5,7 +5,7 @@ title: Gongfan Fang
 
 <script type="text/javascript" src="../assets/js/jquery.min.js width=150px"></script>
 
-<p>Hi there! I'm Gongfan Fang, a final-year master student at Zhejiang University advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. Prior to this, I received my Bachelor’s degree in Computer Science from Zhejiang University in 2019. My research interests include computer vision and efficient deep learning. Now, I'm working closely with <a href="https://scholar.google.com/citations?user=4OjO-WYAAAAJ&hl=en">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Prof. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Prof. Chengchao Shen (Central South University)</a>.</p>
+<p>Hi there! I'm Gongfan Fang. I graduated from Zhejiang University in 2022 with a Master's degree, advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. Prior to this, I received my Bachelor’s degree in Computer Science from Zhejiang University in 2019. My research interests mainly lies in computer vision and machine learning. Now, I'm working closely with <a href="https://scholar.google.com/citations?user=4OjO-WYAAAAJ&hl=en">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Prof. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Prof. Chengchao Shen (Central South University)</a>.</p>
 
 <h2> Publications </h2>
 
@@ -186,7 +186,7 @@ title: Gongfan Fang
     <dl class="description">
         <div class="figure"><img src="../images/dfkd_nlp.png"></img></div>
         <dt class="ptitle">Adversarial Self-Supervised Data-Free Distillation for Text Classification</dt>
-        <dd>Xinyin Ma, Yongliang Shen, <b>Gongfan Fang</b>, Chen Chen, Chenghao Jia, Weiming Lu/dd>
+        <dd>Xinyin Ma, Yongliang Shen, <b>Gongfan Fang</b>, Chen Chen, Chenghao Jia, Weiming Lu</dd>
         <dd>Empirical Methods in Natural Language Processing (EMNLP-20)</dd>
         <dd>
             [<a href="https://www.aclweb.org/anthology/2020.emnlp-main.499.pdf" target="_blank">paper</a>]
