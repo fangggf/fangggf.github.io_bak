@@ -167,7 +167,7 @@ title: Gongfan Fang
         <dd>The 31st International Joint Conference on Artificial Intelligence (IJCAI-22) </dd>
         <dd>
             [<a href="" target="_blank">paper</a>]
-            [<a href="" target="_blank">arXiv</a>]
+            [<a href="https://arxiv.org/abs/2205.07523" target="_blank">arXiv</a>]
             [<a href="" target="_blank">code</a>]
             <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.bibref').slideToggle()">bibtex</a>]
                 <div class="bibref pre-white-space"  style="overflow: hidden; display: none;">
