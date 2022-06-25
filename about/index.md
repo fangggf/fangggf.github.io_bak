@@ -5,7 +5,7 @@ title: Gongfan Fang
 
 <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
 
-<p>Hi there! I'm Gongfan Fang. I graduated from Zhejiang University in 2022 with a Master's degree, advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. Prior to this, I received my Bachelor’s degree in Computer Science from Zhejiang University in 2019. My research interest mainly lies in computer vision and machine learning. Now, I'm working closely with <a href="https://scholar.google.com/citations?user=4OjO-WYAAAAJ&hl=en">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Prof. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Prof. Chengchao Shen (Central South University)</a>. In this year, I will be pursuing my PhD degree at National University of Singapore</p>
+<p>Hi there! I'm Gongfan Fang (方共凡). I graduated from <a href="https://www.vipazoo.cn/">Visual Intelligence and Pattern Analysis (VIPA) Lab @ Zhejiang University</a> with a Master's degree in 2022, advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. Prior to this, I earned my Bachelor’s degree in Computer Science from Zhejiang University in 2019. During my time at Zhejiang University, I worked closely with <a href="https://scholar.google.com/citations?user=4OjO-WYAAAAJ&hl=en">Dr. Jie Song (Zhejiang University)</a>, <a href="https://sites.google.com/site/sitexinchaowang/">Prof. Xinchao Wang (National University of Singapore)</a> and <a href="https://chengchaoshen.github.io/">Prof. Chengchao Shen (Central South University)</a>. In this year, I will be a Ph.D student at <a href="">Learning and Vision (LV) Lab @ National University of Singapore</a>, focusing on efficient algorithms for computer vision and machine learning.</p>
 
 <h2> Publications </h2>
 
@@ -68,6 +68,7 @@ title: Gongfan Fang
         </dd>
     </dl>
 </div>
+
 
 
 <div class="publication">
@@ -246,14 +247,15 @@ title: Gongfan Fang
 
 <br> 
 
+<hr>
 
 <h2> Projects </h2>
 
+If you are interested in my projects, please visit <a href="https://github.com/VainF">my github</a> for more details.
 
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=VainF&theme=dark&bg_color=fff&title_color=444444&text_color=444444"></img>
 </div>
-
 
 <div class="publication">
     <dl class="description">
@@ -268,7 +270,7 @@ title: Gongfan Fang
     <dl class="description">
         <div class="figure"><img src="../images/torch_pruning.png"></img></div>
         <dt class="ptitle">Torch-Pruning</dt>
-        <dd>A pytorch toolkit for structured neural network pruning and layer dependency maintaining</dd>
+        <dd>An easy-to-use toolkit for structured neural network pruning</dd>
         <dd><a href="https://github.com/VainF/Torch-Pruning" target="_blank">https://github.com/VainF/Torch-Pruning</a></dd>
     </dl>
 </div>
@@ -277,13 +279,14 @@ title: Gongfan Fang
     <dl class="description">
         <div class="figure"><img src="../images/deeplab.png"></img></div>
         <dt class="ptitle">DeepLabV3Plus-Pytorch</dt>
-        <dd>DeepLabv3, DeepLabv3+ and pretrained weights on VOC & Cityscapes.</dd>
+        <dd>DeepLabv3 and DeepLabv3+ with pretrained weights for VOC & Cityscapes.</dd>
         <dd><a href="https://github.com/VainF/DeepLabV3Plus-Pytorch" target="_blank">https://github.com/VainF/DeepLabV3Plus-Pytorch</a></dd>
 
     </dl>
 </div>
 
 <br>
+<hr>
 
 <h2> Education </h2>
 
