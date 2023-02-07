@@ -5,9 +5,75 @@ title: Gongfan Fang
 
 <script type="text/javascript" src="../assets/js/jquery.min.js"></script>
 
-<p>Hi there! My name is Gongfan Fang (方共凡) and I'm a first-year Ph.D. student at <a href="http://lv-nus.org/">Learning and Vision (LV) Lab @ National University of Singapore</a>, advised by <a href="https://sites.google.com/site/sitexinchaowang/">Dr. Xinchao Wang</a>. I graduated from <a href="https://www.vipazoo.cn/">Visual Intelligence and Pattern Analysis (VIPA) Lab @ Zhejiang University</a> with a Master's degree in 2022, advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. Prior to this, I earned my Bachelor’s degree in Computer Science from Zhejiang University in 2019. I'm interested in improving the efficiency of deep learning, inlcuding data efficiency, training efficiency and inference efficiency.</p>
+<table>
+    <tbody>
+        <tr>
+            <td style="width: 12%;">
+                <img src="images/avatar.jpg">
+            </td>
+            <td style="width: 45%; padding-left: 15px;" >
+                <p style="font-size: 18pt;"><b>Gongfan Fang</b> <b><span lang="zh-cn">方共凡</span></b></p>
+                <p>Ph.D. Student
+                    <br>
+                    <a href="http://lv-nus.org/" target="_blank">Learning and Vision Lab (LV Lab)</a>
+                    <br>
+                    Electrical and Computer Engineering
+                    <br>
+                    National University of Singapore
+                </p>
+                
+                <p>
+                    <b>Email</b>: gongfan at u.nus.edu
+                </p>
 
-<h2> Publications </h2>
+                <p>
+                    <b>Research Interest</b>: Efficient Deep Learning, Model Compression, Transfer Learning
+                </p>
+
+                <p>
+                    [<a href="https://scholar.google.com/citations?user=489YZ_kAAAAJ&hl=en" target="_blank">Google Scholar</a>] 
+                    [<a href="https://dblp.org/pid/243/5768" target="_blank">DBLP</a>] 
+                    [<a href="https://github.com/VainF" target="_blank">Github</a>] 
+                </p>
+            
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+<p>Hi there! This is Gongfan Fang, a first-year Ph.D. student from <a href="http://lv-nus.org/">Learning and Vision (LV) Lab @ National University of Singapore</a>, advised by <a href="https://sites.google.com/site/sitexinchaowang/">Prof. Xinchao Wang</a>. Prior to this, I graduated from <a href="https://www.vipazoo.cn/">Visual Intelligence and Pattern Analysis (VIPA) Lab @ Zhejiang University</a> with a Bachelor’s degree in 2019 and Master's degree in 2022, advised by <a href="https://person.zju.edu.cn/en/msong">Prof. Mingli Song</a>. My research interests include efficiency deep learning and model compression.</p> 
+
+<hr>
+
+<h2> Research </h2>
+
+<div class="publication">
+    <dl class="description">
+        <div class="figure"><img src="../images/depgraph.png"></img></div>
+        <dt class="ptitle">DepGraph: Towards Any Structural Pruning</dt>
+        <dd><b>Gongfan Fang</b>, Xinyin Ma, Mingli Song, Michael Bi Mi, Xinchao Wang</dd>
+        <dd>Preprint arXiv:2301.12900</dd>
+        <dd>
+            [<a href="https://arxiv.org/abs/2301.12900" target="_blank">arXiv</a>]
+            [<a href="https://github.com/VainF/Torch-Pruning" target="_blank">code</a>]
+            <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.bibref').slideToggle()">bibtex</a>]
+                <div class="bibref pre-white-space"  style="overflow: hidden; display: none;">
+@article{fang2023depgraph,
+    title={DepGraph: Towards Any Structural Pruning},
+    author={Fang, Gongfan and Ma, Xinyin and Song, Mingli and Mi, Michael Bi and Wang, Xinchao},
+    journal={arXiv preprint arXiv:2301.12900},
+    year={2023}
+}
+            </div>
+            </div>  
+            <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
+                <div class="abstract"  style="overflow: hidden; display: none;">  
+                    <p>Structural pruning enables model acceleration by removing structurally-grouped parameters from neural networks. However, the parameter-grouping patterns vary widely across different models, making architecture-specific pruners, which rely on manually-designed grouping schemes, non-generalizable to new architectures. In this work, we study a highly-challenging yet barely-explored task, any structural pruning, to tackle general structural pruning of arbitrary architecture like CNNs, RNNs, GNNs and Transformers. The most prominent obstacle towards this ambitious goal lies in the structural coupling, which not only forces different layers to be pruned simultaneously, but also expects all parameters in a removed group to be consistently unimportant, thereby avoiding significant performance degradation after pruning. To address this problem, we propose a general and fully automatic method, Dependency Graph (DepGraph), to explicitly model the inter-dependency between layers and comprehensively group coupled parameters. In this work, we extensively evaluate our method on several architectures and tasks, including ResNe(X)t, DenseNet, MobileNet and Vision transformer for images, GAT for graph, DGCNN for 3D point cloud, alongside LSTM for language, and demonstrate that, even with a simple L1 norm criterion, the proposed method consistently yields gratifying performances. </p>
+                </div>
+            </div>       
+        </dd>
+    </dl>
+</div>
 
 <div class="publication">
     <dl class="description">
@@ -29,8 +95,8 @@ title: Gongfan Fang
       archivePrefix={arXiv},
       primaryClass={cs.LG}
 }
-</div>
-            </div>  
+    </div>
+</div>  
             <div class="link2">[<a class="fakelink" onclick="$(this).siblings('.abstract').slideToggle()">abstract</a>]
                 <div class="abstract"  style="overflow: hidden; display: none;">  
                     <p>Data-free knowledge distillation (DFKD) has recently been attracting increasing attention from research communities, attributed to its capability of compressing a model only using synthetic data. Despite the encouraging results achieved, state-of-the-art DFKD methods still suffer from the inefficiency of data synthesis, making the data-free training process extremely time-consuming and thus inapplicable for large-scale tasks. In this work, we introduce an efficacious scheme, termed as FastDFKD, that allows us to accelerate DFKD by a factor of orders of magnitude. At the heart of our approach is a novel strategy to reuse the shared common features in training data so as to synthesize different data instances. Unlike prior methods that optimize a set of data independently, we propose to learn a meta-synthesizer that seeks common features as the initialization for the fast data synthesis. As a result, FastDFKD achieves data synthesis within only a few steps,  significantly enhancing the efficiency of data-free training. Experiments over CIFAR, NYUv2 and ImageNet demonstrate that the proposed FastDFKD achieves 10$\times$ and even 100$\times$ acceleration while preserving  performances on par with the state of the art. </p>
@@ -218,7 +284,7 @@ title: Gongfan Fang
         <div class="figure"><img src="../images/transformer-amal.png"></img></div>
         <dt class="ptitle">Knowledge Amalgamation for Object Detection with Transformers</dt>
         <dd>Haofei Zhang, Feng Mao, Mengqi Xue, <b>Gongfan Fang</b>, Zunlei Feng, Jie Song, Mingli Song</dd>
-        <dd>arXiv preprint arXiv:2203.03187</dd>
+        <dd>Preprint arXiv:2203.03187</dd>
         <dd>
             [<a href="" target="_blank">paper</a>]
             [<a href="https://arxiv.org/abs/2203.03187" target="_blank">arXiv</a>]
@@ -251,34 +317,34 @@ title: Gongfan Fang
 
 <h2> Projects </h2>
 
-If you are interested in my projects, please visit <a href="https://github.com/VainF">my github</a> for more details.
-
-<div>
-<img src="https://github-readme-stats.vercel.app/api?username=VainF&theme=dark&bg_color=fff&title_color=444444&text_color=444444"></img>
-</div>
-
-<div class="publication">
-    <dl class="description">
-        <div class="figure"><img src="../images/msssim.png"></img></div>
-        <dt class="ptitle">Pytorch-MSSSIM</dt>
-        <dd>Fast and differentiable MS-SSIM and SSIM for pytorch</dd>
-        <dd><a href="https://github.com/VainF/pytorch-msssim" target="_blank">https://github.com/VainF/pytorch-msssim</a></dd>
-    </dl>
-</div>
+If you are interested in our projects, please visit <a href="https://github.com/VainF">my github page</a> for more details.
+<a href="https://stardev.io/developers/VainF"><img alt="Check out VainF's profile on stardev.io" src="https://stardev.io/developers/VainF/badge/languages/country.svg" /></a>
 
 <div class="publication">
     <dl class="description">
         <div class="figure"><img src="../images/torch_pruning.png"></img></div>
-        <dt class="ptitle">Torch-Pruning</dt>
-        <dd>An easy-to-use toolkit for structured neural network pruning</dd>
+        <dt class="ptitle" style="float: left; margin-right: 12px">Torch-Pruning</dt> 
+        <iframe src="https://ghbtns.com/github-btn.html?user=vainf&repo=torch-pruning&type=star&count=true" frameborder="0" scrolling="0" width="180" height="20" title="GitHub"></iframe>
+        <dd>A general-purpose library for structural network pruning</dd>
         <dd><a href="https://github.com/VainF/Torch-Pruning" target="_blank">https://github.com/VainF/Torch-Pruning</a></dd>
     </dl>
 </div>
 
 <div class="publication">
     <dl class="description">
+        <div class="figure"><img src="../images/msssim.png"></img></div>
+        <dt class="ptitle" style="float: left; margin-right: 12px">Pytorch-MSSSIM</dt>
+        <iframe src="https://ghbtns.com/github-btn.html?user=vainf&repo=pytorch-msssim&type=star&count=true" frameborder="0" scrolling="0" width="180" height="20" title="GitHub"></iframe>
+        <dd>Fast and differentiable MS-SSIM and SSIM for pytorch.</dd>
+        <dd><a href="https://github.com/VainF/pytorch-msssim" target="_blank">https://github.com/VainF/pytorch-msssim</a></dd>
+    </dl>
+</div>
+
+<div class="publication">
+    <dl class="description">
         <div class="figure"><img src="../images/deeplab.png"></img></div>
-        <dt class="ptitle">DeepLabV3Plus-Pytorch</dt>
+        <dt class="ptitle" style="float: left; margin-right: 12px">DeepLabV3Plus-Pytorch</dt>
+        <iframe src="https://ghbtns.com/github-btn.html?user=vainf&repo=deeplabv3plus-pytorch&type=star&count=true" frameborder="0" scrolling="0" width="180" height="20" title="GitHub"></iframe>
         <dd>DeepLabv3 and DeepLabv3+ with pretrained weights for VOC & Cityscapes.</dd>
         <dd><a href="https://github.com/VainF/DeepLabV3Plus-Pytorch" target="_blank">https://github.com/VainF/DeepLabV3Plus-Pytorch</a></dd>
 
@@ -291,7 +357,7 @@ If you are interested in my projects, please visit <a href="https://github.com/V
 <h2> Education </h2>
 
 <b>2022.07 - Present</b> - Ph.D. in Electrical and Computer Engineering, National University of Singapore. <br>
-<b>2019.09 - 2022.04</b> - MEng. in Computer Science, College of Computer Science and Technology, Zhejiang University. <br>
+<b>2019.09 - 2022.04</b> - M.Eng. in Computer Science, College of Computer Science and Technology, Zhejiang University. <br>
 <b>2015.09 - 2019.06</b> - B.S. in Computer Science, College of Computer Science and Technology, Zhejiang University.
 
 <br>
