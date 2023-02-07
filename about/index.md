@@ -9,7 +9,7 @@ title: Gongfan Fang
     <tbody>
         <tr>
             <td style="width: 12%;">
-                <img src="images/avatar.jpg">
+                <img src="../images/avatar.jpg">
             </td>
             <td style="width: 45%; padding-left: 15px;" >
                 <p style="font-size: 18pt;"><b>Gongfan Fang</b> <b><span lang="zh-cn">方共凡</span></b></p>
